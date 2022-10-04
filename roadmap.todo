@@ -1,0 +1,18 @@
+Instruções Gerais:
+    ✔ Crie uma pasta chamada services @done(21-12-09 17:16)
+    ✔ Crie um arquivo FilmesServices.js na pasta services @done(21-12-09 17:17)
+    ✔ No arquivo FilmesServices.js @done(21-12-09 17:32)
+        ✔ Importe o conteúdo do arquivo database/filmes.json para uma constante *filmes* @done(21-12-09 17:27)
+        ✔ Crie um objeto vazio armazenando-o numa constante chamada services @done(21-12-09 17:30)
+        ✔ Exporte a constante services @done(21-12-09 17:32)
+
+Todos os passos a seguir devem ser executados no arquivo FilmesServices.js
+Execute o comando 'npm test' para acompanhar os testes das funções que você
+irá desenvolver.
+Listar Filmes:
+    
+    ✔ Adequar o index.ejs @done(22-03-07 17:24)
+    ☐ Readequar a rota get
+    router.get('/filmes/:posicao', FilmesController.buscaPorPosicao)
+    ☐ Codar o controller buscaPorId.
+    
